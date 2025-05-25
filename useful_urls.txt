@@ -1,8 +1,10 @@
 -----------Scraping API ---------
 https://axiom.ai/scrape/upwork //upwork, axiom
-https://developer.unipile.com/docs/getting-started //linkedin 
+https://developer.unipile.com/docs/getting-started //linkedin scraping
 
 
 -----------Trading Indicators----------------------------------------------
 https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/learning-center/Understanding-Indicators-TA.pdf
+
+
 
