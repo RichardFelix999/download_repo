@@ -6,5 +6,15 @@ https://developer.unipile.com/docs/getting-started //linkedin scraping
 -----------Trading Indicators----------------------------------------------
 https://www.fidelity.com/bin-public/060_www_fidelity_com/documents/learning-center/Understanding-Indicators-TA.pdf
 
+-------------Person Links---------------------------------------------------
+Name: 
+email:
+Linkedin:
+Github:
+Telegram:
+Phone Number:
+
+-------------Tools--------------------------
+
 
 
